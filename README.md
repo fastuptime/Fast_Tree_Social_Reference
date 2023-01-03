@@ -4,6 +4,8 @@
 - Çok Basit Seviye'de Tutmaya Çalıştım Projeyi.
 - Ticari İşler vs. Dışında Kullana Bilirsiniz.
 - Her hangi bir detay eklenmedi projeye.
+- Her hangi bir hata var ise bize bildire bilirsiniz.
+- Çok az test edildi.
 
 ---
 
